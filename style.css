@@ -473,7 +473,10 @@ footer {
     line-height: 25px;
 }
 
-
+/* BLog page */
+#shopcontent.blog-header{
+    background-image: url("banner2.jpg");
+}
 
 
 
