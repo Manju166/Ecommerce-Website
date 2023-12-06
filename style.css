@@ -477,6 +477,11 @@ footer {
 #shopcontent.blog-header{
     background-image: url("banner2.jpg");
 }
-
+#blog #blogdetail{
+    display: flex;
+}
+#blog .blog-box{
+    padding: 20px;
+}
 
 
